@@ -1,0 +1,15 @@
+/Users/thienpham/Documents/GitHub/csharp/bin/Debug/net6.0/csharp
+/Users/thienpham/Documents/GitHub/csharp/bin/Debug/net6.0/csharp.deps.json
+/Users/thienpham/Documents/GitHub/csharp/bin/Debug/net6.0/csharp.runtimeconfig.json
+/Users/thienpham/Documents/GitHub/csharp/bin/Debug/net6.0/csharp.dll
+/Users/thienpham/Documents/GitHub/csharp/bin/Debug/net6.0/csharp.pdb
+/Users/thienpham/Documents/GitHub/csharp/obj/Debug/net6.0/csharp.csproj.AssemblyReference.cache
+/Users/thienpham/Documents/GitHub/csharp/obj/Debug/net6.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thienpham/Documents/GitHub/csharp/obj/Debug/net6.0/csharp.AssemblyInfoInputs.cache
+/Users/thienpham/Documents/GitHub/csharp/obj/Debug/net6.0/csharp.AssemblyInfo.cs
+/Users/thienpham/Documents/GitHub/csharp/obj/Debug/net6.0/csharp.csproj.CoreCompileInputs.cache
+/Users/thienpham/Documents/GitHub/csharp/obj/Debug/net6.0/csharp.dll
+/Users/thienpham/Documents/GitHub/csharp/obj/Debug/net6.0/refint/csharp.dll
+/Users/thienpham/Documents/GitHub/csharp/obj/Debug/net6.0/csharp.pdb
+/Users/thienpham/Documents/GitHub/csharp/obj/Debug/net6.0/csharp.genruntimeconfig.cache
+/Users/thienpham/Documents/GitHub/csharp/obj/Debug/net6.0/ref/csharp.dll
